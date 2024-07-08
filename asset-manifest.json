@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/neon-light-show-main/static/css/main.258a3e8d.css",
+    "main.js": "/neon-light-show-main/static/js/main.a1d17ea3.js",
+    "static/js/453.60e08f50.chunk.js": "/neon-light-show-main/static/js/453.60e08f50.chunk.js",
+    "index.html": "/neon-light-show-main/index.html",
+    "main.258a3e8d.css.map": "/neon-light-show-main/static/css/main.258a3e8d.css.map",
+    "main.a1d17ea3.js.map": "/neon-light-show-main/static/js/main.a1d17ea3.js.map",
+    "453.60e08f50.chunk.js.map": "/neon-light-show-main/static/js/453.60e08f50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.258a3e8d.css",
+    "static/js/main.a1d17ea3.js"
+  ]
+}
